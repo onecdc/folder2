@@ -1,1 +1,1 @@
-plot2
+plot2 sample2
